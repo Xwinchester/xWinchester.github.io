@@ -1,13 +1,2 @@
-# Ignore VS Code settings
-.vscode/
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
 # Ignore local notes or drafts
 notes.txt
-*.md
-
-# Ignore log files
-*.log
