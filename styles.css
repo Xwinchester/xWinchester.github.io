@@ -188,12 +188,20 @@ footer {
     gap: 8px;
 }
 
-.dot {
+.green-dot {
     height: 6px;
     width: 6px;
     background: #4ade80;
     border-radius: 50%;
     box-shadow: 0 0 5px #4ade80;
+}
+
+.red-dot {
+    height: 6px;
+    width: 6px;
+    background: #f87171;
+    border-radius: 50%;
+    box-shadow: 0 0 5px #f87171;
 }
 
 
