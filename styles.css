@@ -53,6 +53,10 @@ h2::after {
     background: linear-gradient(to right, var(--accent), transparent);
 }
 
+p {
+    margin-bottom: 1.5rem;
+}
+
 .tool-grid, .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
